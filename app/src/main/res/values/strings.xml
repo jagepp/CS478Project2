@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">cs478Project2</string>
+
+    <string-array name="movieNames">
+        <item>Thor Ragnarok</item>
+        <item>Deadpool </item>
+        <item>Avengers: Infinity War </item>
+        <item>Avengers: Endgame </item>
+        <item>Guardians of the Galaxy </item>
+        <item>Star Wars: The Return of the Jedi </item>
+        <item>Insidious </item>
+        <item>Pet Sematary(1989) </item>
+    </string-array>
+
+    <string-array name="directorNames">
+        <item>Taika Waititi </item>
+        <item>Tim Miller </item>
+        <item>Joe and Anthony Russo </item>
+        <item>Joe and Anthony Russo </item>
+        <item>James Gunn </item>
+        <item>Richard Marquand </item>
+        <item>James Wan </item>
+        <item>Mary Lambert </item>
+    </string-array>
+
+    <string-array name="urlsToVideo">
+        <item>https://www.youtube.com/watch?v=v7MGUNV8MxU&amp;ab_channel=MarvelEntertainment</item>
+        <item>https://www.youtube.com/watch?v=ONHBaC-pfsk&amp;ab_channel=20thCenturyStudios</item>
+        <item>https://www.youtube.com/watch?v=QwievZ1Tx-8&amp;ab_channel=MarvelEntertainment</item>
+        <item>https://www.youtube.com/watch?v=hA6hldpSTF8&amp;ab_channel=MarvelEntertainment</item>
+        <item>https://www.youtube.com/watch?v=d96cjJhvlMA&amp;ab_channel=MarvelEntertainment</item>
+        <item>https://www.youtube.com/watch?v=7L8p7_SLzvU&amp;ab_channel=StarWars</item>
+        <item>https://www.youtube.com/watch?v=zuZnRUcoWos&amp;ab_channel=MovieclipsClassicTrailers</item>
+        <item>https://www.youtube.com/watch?v=JMao8sg4DPA&amp;ab_channel=MovieclipsClassicTrailers</item>
+    </string-array>
+
+    <string-array name="urlsToMovieIMDb">
+        <item>https://www.imdb.com/title/tt3501632/</item>
+        <item>https://www.imdb.com/title/tt1431045/</item>
+        <item>https://www.imdb.com/title/tt4154756/</item>
+        <item>https://www.imdb.com/title/tt4154796/</item>
+        <item>https://www.imdb.com/title/tt2015381/</item>
+        <item>https://www.imdb.com/title/tt0086190/</item>
+        <item>https://www.imdb.com/title/tt1591095/</item>
+        <item>https://www.imdb.com/title/tt0098084/</item>
+    </string-array>
+
+    <string-array name="urlsToDirectorWiki">
+        <item>https://en.wikipedia.org/wiki/Taika_Waititi</item>
+        <item>https://en.wikipedia.org/wiki/Tim_Miller_(director)</item>
+        <item>https://en.wikipedia.org/wiki/Russo_brothers</item>
+        <item>https://en.wikipedia.org/wiki/Russo_brothers</item>
+        <item>https://en.wikipedia.org/wiki/James_Gunn</item>
+        <item>https://en.wikipedia.org/wiki/Richard_Marquand</item>
+        <item>https://en.wikipedia.org/wiki/James_Wan</item>
+        <item>https://en.wikipedia.org/wiki/Mary_Lambert_(director)</item>
+    </string-array>
+
+
+</resources>

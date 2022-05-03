@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/gridView"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Grid View"/>
+
+    <item
+        android:id="@+id/listView"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="List View"/>
+
+</menu>
